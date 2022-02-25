@@ -1,5 +1,5 @@
  # Documentation for Workflow Syntax: https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions
- # The name of the GitHub event that triggers the workflow.
+ # Thee name of the GitHub event that triggers the workflow.
  name: Gitleaks
 
  on: [push,pull_request]
